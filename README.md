@@ -1,4 +1,4 @@
-# christmaths-2017
+# Christmaths-2017
 
 > Christmaths 2017 project submissions for Dr. Hannah Fry.
 
